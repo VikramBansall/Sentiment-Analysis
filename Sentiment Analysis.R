@@ -37,13 +37,13 @@ getwd()
 
 
 
-mykey<-"oUq3737TNHWxqpA5w1Nl8SG5G"
+mykey<-"....................."
 reqURL<-"AAAAAAAAAAAAAAAAAAAAAGKVdQEAAAAAW92ljPj%2BrXNYQzlEtUeXdz%2FmUS8%3D8xACziLljJjdiXZTNQzUNVz7cPYZDaCRV7Ew6ABOMmaCtgNVSG"
 accessURL<-"AAAAAAAAAAAAAAAAAAAAAGKVdQEAAAAAW92ljPj%2BrXNYQzlEtUeXdz%2FmUS8%3D8xACziLljJjdiXZTNQzUNVz7cPYZDaCRV7Ew6ABOMmaCtgNVSG"
 authURL<-"AAAAAAAAAAAAAAAAAAAAAGKVdQEAAAAAW92ljPj%2BrXNYQzlEtUeXdz%2FmUS8%3D8xACziLljJjdiXZTNQzUNVz7cPYZDaCRV7Ew6ABOMmaCtgNVSG"
-consumerSecret<-"Nqb19nUeOpoZ1f7V7ndzCyhe2KM0HVCLBlHud3io6OLs493rz7"
+consumerSecret<-"......................."
 accessToken<-"1533399351112122368-ghZ4lk8aaz2WD7CyOCfoBNxIXcWdy4"
-accessTokensecret<-"7I6R3Dww4sMwdRsgkqflpFOrN1mwfn90hefJJirZKmmEE"
+accessTokensecret<-"....................."
 twitcred<-OAuthFactory$new(consumerKey=mykey,consumerSecret=consumerSecret,
                            requestURL=reqURL,accessURL=accessURL,authURL=authURL)
 twitcred$handshake
